@@ -1,0 +1,9 @@
+#tableau {
+  width: 600px;
+  height: 600px;
+  margin: 0 auto;
+}
+
+table, tr, td {
+  border: solid 1px black;
+}
